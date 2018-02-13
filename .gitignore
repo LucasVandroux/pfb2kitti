@@ -103,5 +103,7 @@ ENV/
 # MacOS file system
 .DS_Store
 
+.gitignore
+
 # Kittipy module
 kittipy.py
