@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# MacOS file system
+.DS_Store
+
+# Kittipy module
+kittipy.py
