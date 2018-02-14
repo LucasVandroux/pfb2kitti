@@ -1,5 +1,5 @@
 # pfb2kitti
-**Jupyter Notebook to create a new dataset for 2D Object Detection in the [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d) format from the [Playing for Benchmarks dataset](http://playing-for-benchmarks.org/overview/).**
+**Convert the [Playing for Benchmarks dataset](http://playing-for-benchmarks.org/overview/) 2D Object Detection information to the same format as the [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d).**
 
 ![Examples of uses of PFB2KITTI](https://i.imgur.com/4XnzXw6.png)
 
